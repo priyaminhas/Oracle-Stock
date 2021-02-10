@@ -1,6 +1,8 @@
 # Project to Fetch data from stocks API and save in blockchain contract
 
-Run the project using ### `npm start`
+Run the project using 
+
+### `npm start`
 
 Enter the Stock Symbol in the textbox and save in the blockchain
 
