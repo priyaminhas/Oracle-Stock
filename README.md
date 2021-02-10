@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Project to Fetch data from stocks API and save in blockchain contract
+
+Run the project using ### `npm start`
+
+Enter the Stock Symbol in the textbox and save in the blockchain
+
+Use the Stock symbol in the second textbox to fetch the price or volume of the stock
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
